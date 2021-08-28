@@ -33,3 +33,5 @@ $SpeechSynth.Speak($time)
 # And put the following into "Schedule" field:
 # 0 * * * * 
 # 30 * * * *
+
+#In case you run it under the Windows - the following can block script execution https:/go.microsoft.com/fwlink/?LinkID=135170
